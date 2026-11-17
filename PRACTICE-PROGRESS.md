@@ -25,3 +25,9 @@ After each attempt: record date, chapter/question, attempted answer, whether cor
 - Chapter 9 photographed Q1: student identified 'just paid' as D0, calculated D1=$1.054, and reported successfully solving stock price (P0 ≈ $12.40). Marked completed on student's report.
 - Chapter 9 photographed Q2 (Francis Company): user answered **$27.17** correctly. CAPM rs=10.60%; Gordon growth P0=$1.25/(0.106-0.06)=$27.17. Completed.
 - Next: Chapter 9 Question 3 (Sorenson Corp future price in 7 years), from photographed chapter 9 in-class sheet; no answer yet.
+
+## November 17 — Chapter 9 at-home Q11 Whitfield completed
+- Student computed D2 = 2.34375; D3 = 2.929688 (rounded); D4 = 3.1054 (rounded); P3 = 51.757813 (rounded); final P0 = **$42.47**, correct.
+- Key conceptual breakthrough: nonconstant dividend valuation = discount early dividends plus terminal value (cash flow present value), not arithmetic average.
+- Confusion resolved: constant-growth Gordon model cannot be used directly with initial 25% growth for only 3 years; stable growth 6% starts with D4.
+- Next recommended: another nonconstant-growth practice with reduced scaffolding or corporate valuation, depending on mastery.
