@@ -37,3 +37,8 @@ After each attempt: record date, chapter/question, attempted answer, whether cor
 - Computation: FCF1=$45m, WACC=9%, g=4% -> operations value $900m; minus debt and preferred $150m = equity $750m; divided by 20m shares = $37.50 per share.
 - Student now understands the difference between value in millions and dollars per share after guided Atlas Corporation introduction.
 - Next study suggestion: more challenging corporate valuation question with independently selected steps or move toward Chapter 8/10.
+
+## November 17 — Chapter 9 at-home Q17 Brookfield Corp completed
+- Student answered **$47.30 per share**, matching professor key.
+- Key distinction: 'just generated' FCF=$120m is FCF0; FCF1=$120m*1.055=$126.6m. MVO=$126.6m/(0.095-0.055)=$3,165m; common equity=$2,365m after $800m debt/preferred; 50m shares => $47.30/share.
+- Next: harder corporate valuation involving multi-year FCF projections and terminal value, or Chapter 8/10 depending available time.
