@@ -53,3 +53,8 @@ After each attempt: record date, chapter/question, attempted answer, whether cor
 - Student correctly calculated **$32 intrinsic value per share**, recognized **$30 market price**, concluded **buy (undervalued by $2)**. Matches professor answer key.
 - MVO = $60m/(0.08-0.03)=$1,200m; equity $1,200m-$300m debt-$100m preferred=$800m; price $800m/25m=$32/share.
 - Next planned: quickly cover zero-growth/preferred stock then switch to Chapter 10 by study schedule.
+
+## November 17 — Chapter 10 at-home Q1 Hartwell completed
+- Student first answered 5.5% (computed dividend-yield component but omitted growth). Corrected to **11.56%**, matching answer key.
+- Formula: re=D1/[P0(1-F)]+g = 2/[40(1-0.10)]+0.06=11.56%.
+- Next focus: distinguish D0 vs D1 in similar flotation problem; advance to WACC promptly because exam is Nov 18.
