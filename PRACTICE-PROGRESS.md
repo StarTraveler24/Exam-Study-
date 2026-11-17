@@ -48,3 +48,8 @@ After each attempt: record date, chapter/question, attempted answer, whether cor
 - Approach: first 3 FCFs -8m, +12m, +25m; TV3 = 26.25/(0.11-0.05); MVO0 = -8/1.11 + 12/1.11^2 + (25+437.5)/1.11^3; subtract $60m debt/preferred and divide by 12m shares.
 - Conceptual note: Student understood that TV3 is added to FCF3 before discounting. Initial confusion between terminal perpetuity denominator WACC-g and PV denominator 1+WACC was resolved.
 - Completed Chapter 9 at-home: Q11, Q16, Q17, Q18. Next useful move: Q19 valuation plus buy/sell or begin Chapter 8/10 for breadth.
+
+## November 17 — Chapter 9 at-home Q19 Weston Foods completed
+- Student correctly calculated **$32 intrinsic value per share**, recognized **$30 market price**, concluded **buy (undervalued by $2)**. Matches professor answer key.
+- MVO = $60m/(0.08-0.03)=$1,200m; equity $1,200m-$300m debt-$100m preferred=$800m; price $800m/25m=$32/share.
+- Next planned: quickly cover zero-growth/preferred stock then switch to Chapter 10 by study schedule.
