@@ -31,3 +31,9 @@ After each attempt: record date, chapter/question, attempted answer, whether cor
 - Key conceptual breakthrough: nonconstant dividend valuation = discount early dividends plus terminal value (cash flow present value), not arithmetic average.
 - Confusion resolved: constant-growth Gordon model cannot be used directly with initial 25% growth for only 3 years; stable growth 6% starts with D4.
 - Next recommended: another nonconstant-growth practice with reduced scaffolding or corporate valuation, depending on mastery.
+
+## November 17 — Chapter 9 at-home Q16 Lyndon Industries completed
+- Student calculated MVO=$900 million and intrinsic value per share **$37.50**, matching professor's answer key.
+- Computation: FCF1=$45m, WACC=9%, g=4% -> operations value $900m; minus debt and preferred $150m = equity $750m; divided by 20m shares = $37.50 per share.
+- Student now understands the difference between value in millions and dollars per share after guided Atlas Corporation introduction.
+- Next study suggestion: more challenging corporate valuation question with independently selected steps or move toward Chapter 8/10.
