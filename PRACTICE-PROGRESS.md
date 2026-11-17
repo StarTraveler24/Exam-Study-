@@ -63,3 +63,10 @@ After each attempt: record date, chapter/question, attempted answer, whether cor
 - Student answered cost of new common equity **10.64%** correctly.
 - D0=$1.50 ('just paid'), D1=$1.56, flotation=6%, price=$25, growth=4%; re=1.56/[25*(1-0.06)]+0.04=10.64%.
 - Next: WACC practice (Chapter 10 Q5 Delmar); prioritize exam coverage.
+
+## November 17 — Chapter 10 at-home Q5 Delmar completed
+- Student correctly answered **WACC 9.58%**, matching professor's key.
+- Financing weights wd=30%, wp=10%, ws=60%; costs rd=6.8% before tax, rp=8.5%, rs=12%; T=25%.
+- Components: 1.53% after-tax debt +0.85% preferred +7.20% common =9.58%.
+- Initial confusion: preferred stock weight vs preferred cost, and why preferred is distinct from debt. Explained weight (w) vs cost (r) and only debt's interest tax shield.
+- Next: Chapter 10 WACC requiring CAPM for equity (Q6 Ridgeway), then move to Chapter 8 if time.
