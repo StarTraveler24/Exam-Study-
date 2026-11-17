@@ -42,3 +42,9 @@ After each attempt: record date, chapter/question, attempted answer, whether cor
 - Student answered **$47.30 per share**, matching professor key.
 - Key distinction: 'just generated' FCF=$120m is FCF0; FCF1=$120m*1.055=$126.6m. MVO=$126.6m/(0.095-0.055)=$3,165m; common equity=$2,365m after $800m debt/preferred; 50m shares => $47.30/share.
 - Next: harder corporate valuation involving multi-year FCF projections and terminal value, or Chapter 8/10 depending available time.
+
+## November 17 — Chapter 9 at-home Q18 Carver Logistics completed
+- Student computed FCF4 = $26.25m, TV3 = $437.5m, MVO0 = $340.708276m, and intrinsic value **$23.39 per share**; matches professor's answer key.
+- Approach: first 3 FCFs -8m, +12m, +25m; TV3 = 26.25/(0.11-0.05); MVO0 = -8/1.11 + 12/1.11^2 + (25+437.5)/1.11^3; subtract $60m debt/preferred and divide by 12m shares.
+- Conceptual note: Student understood that TV3 is added to FCF3 before discounting. Initial confusion between terminal perpetuity denominator WACC-g and PV denominator 1+WACC was resolved.
+- Completed Chapter 9 at-home: Q11, Q16, Q17, Q18. Next useful move: Q19 valuation plus buy/sell or begin Chapter 8/10 for breadth.
