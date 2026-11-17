@@ -20,3 +20,8 @@
 
 ## Progress recording convention
 After each attempt: record date, chapter/question, attempted answer, whether correct, misunderstanding, and one actionable review note. Never mark a problem completed without an actual attempt.
+
+## November 17 — confirmed progress
+- Chapter 9 photographed Q1: student identified 'just paid' as D0, calculated D1=$1.054, and reported successfully solving stock price (P0 ≈ $12.40). Marked completed on student's report.
+- Chapter 9 photographed Q2 (Francis Company): user answered **$27.17** correctly. CAPM rs=10.60%; Gordon growth P0=$1.25/(0.106-0.06)=$27.17. Completed.
+- Next: Chapter 9 Question 3 (Sorenson Corp future price in 7 years), from photographed chapter 9 in-class sheet; no answer yet.
